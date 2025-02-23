@@ -6,7 +6,7 @@ This project is an online Tic-Tac-Toe game featuring two difficulty modes:
 - **Hard Mode**: The AI uses a uniquely developed method to always counter the player's moves, ensuring an unbeatable challenge.  
 
 This project showcases algorithmic design and AI strategy implementation in a simple yet effective way.  
-ONLINE VERSION AVAILABLE AT : **tttg.netlify.com/**
+ONLINE VERSION AVAILABLE AT : [TIC-TAC-TOE GAME DEVELOPED BY OMAR LOUAZRI](https://tttg.netlify.com)
 
 ---
 
